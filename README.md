@@ -1,9 +1,8 @@
-## Hi there 👋
-## I'm Ofek Manor :) 
+## Hi, I'm Ofek Manor 👋
 ### Second-year B.Sc. student in Software Engineering at SCE.
-## What I'm interested in
-Software Development
-## What I'm learning now
+### What I'm interested in
+Software Development, backend and AI tools 
+### What I'm learning now
 - Python
 - C++
 - linux
