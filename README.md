@@ -10,4 +10,4 @@ Software Development, backend and AI tools
 my course projects from this year.
 
 ## Contact ✨
-### LinkedIn: https://www.linkedin.com/in/ofek-manor-629a9344b/
+LinkedIn: https://www.linkedin.com/in/ofek-manor-629a9344b/
