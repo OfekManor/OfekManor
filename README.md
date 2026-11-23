@@ -3,6 +3,10 @@
 ### Second-year B.Sc. student in Software Engineering at SCE.
 ## What I'm interested in
 Software Development
+## What I'm learning now
+- Python
+- C++
+- linux
 ### Coming soon:
 my course projects from this year.
 
